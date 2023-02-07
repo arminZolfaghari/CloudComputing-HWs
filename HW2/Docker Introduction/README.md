@@ -17,7 +17,7 @@ Feel free to contribute to this repository!
 
 Docker Workshop
 ===============
-[![Docker Workshop](https://i.imgur.com/vKb2F1B.png)](https://courses.aut.ac.ir/pluginfile.php/877450/mod_resource/content/1/Docker%20Workshop.mp4)
+[![Docker Workshop](https://github.com/arminZolfaghari/CloudComputing-HWs/blob/main/HW2/Docker%20Volume%20and%20Networking/sample.jpg)](https://courses.aut.ac.ir/pluginfile.php/877450/mod_resource/content/1/Docker%20Workshop.mp4)
 
 
 Volume & Networking in Docker
